@@ -1,0 +1,2 @@
+# pewarisan1
+pewarisan
